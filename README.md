@@ -63,7 +63,7 @@ Stock trading platform built using the MERN stack.
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://linkedin.com/in/shlok-jadhav
-- 📧 Email: your-email@gmail.com
+- 📧 Email: shloksjadhav2005@gmail.com
 
 ---
 
