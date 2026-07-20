@@ -8,8 +8,8 @@
 - 🎓 Electronics & Computer Engineering Student
 - 📊 Passionate about Data Analytics and Business Intelligence
 - 📈 Building data-driven projects using Python, SQL, Excel, and Power BI
-- 💻 Experienced in MERN Stack Development
-- 🎯 Aspiring Data Analyst focused on solving real-world business problems through data
+- 💻 Experienced in Full-Stack Web Development using the MERN Stack
+- 🎯 Aspiring Data Analyst passionate about transforming data into actionable business insights
 
 ---
 
