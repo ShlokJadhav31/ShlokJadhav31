@@ -6,10 +6,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 Electronics & Computer Engineering Student
-- 📊 Passionate about Data Analytics & Business Intelligence
-- 🌱 Currently learning **Advanced Power BI, Python & Data Analytics**
-- 💻 Also experienced in **MERN Stack Development**
-- 🎯 Goal: Secure a Data Analyst role and build impactful data-driven solutions.
+- 📊 Passionate about Data Analytics and Business Intelligence
+- 📈 Building data-driven projects using Python, SQL, Excel, and Power BI
+- 💻 Experienced in MERN Stack Development
+- 🎯 Aspiring Data Analyst focused on solving real-world business problems through data
 
 ---
 
